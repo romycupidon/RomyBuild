@@ -1,0 +1,13 @@
+<item>
+<title>Episod 1 din 2 Februarie 2021</title>
+<link>https://mixdrop.to/e/vnv4rnrmfng8w</link>
+<thumbnail>https://tacataca.prosport.ro/wp-content/uploads/2020/04/las_fierbinti_-_sezonul_16_2.jpg</thumbnail>
+<fanart>https://tvpenet.org/wp-content/uploads/2021/02/las-fierbinti-sezonul-19-online-2021-online.jpg</fanart>
+</item>
+
+<item>
+<title>Episod 2 din 4 Februarie 2021</title>
+<link>https://streamtape.com/e/jjXDm6xYJ4HGZ7/S19E02.720p.HDTV.h264-iREAL.mkv</link>
+<thumbnail>https://tacataca.prosport.ro/wp-content/uploads/2020/04/las_fierbinti_-_sezonul_16_2.jpg</thumbnail>
+<fanart>https://tvpenet.org/wp-content/uploads/2021/02/las-fierbinti-sezonul-19-online-2021-online.jpg</fanart>
+</item>
